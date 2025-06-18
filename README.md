@@ -26,14 +26,14 @@ Aplikasi ini dibuat oleh kelompok CitWorks untuk tugas akhir, bertujuan mendetek
 - percobaan.py → program utama GUI Deteksi Daging
 - CitWorks.ui → desain GUI Qt Designer
 - ModelCNN.py → Pelatihan Dataset
-- Model CNN terlatih & Dataset →
+- Model CNN terlatih & Dataset → https://drive.google.com/drive/folders/1mVrdQGZG1mDtQZyOV-lva83IWt9DAf4l
 - Aplikasi_CitWorks_Seluruh_Operasi → RTM 2
 
 👨‍💻 Kelompok: CitWorks  
 Anggota:
 - 152023001 - Sintia Wati
 - 152023005 - Nabilla Hasya Permana
-- 152023200 - Fida Nujiya
+- 152023200 - Fida Nujjiya
 
 📌 Catatan:
 - Dataset tidak disertakan di repository ini sesuai ketentuan tugas.
